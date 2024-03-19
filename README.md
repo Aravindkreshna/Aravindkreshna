@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aravind Kreshna</h1>
 <h3 align="center">A Senior Graphic and Web developer from Chennai, India</h3>
 
-- 🌱 I’m currently learning **Frameworks, 3D Modelling, Java**
+- 🌱 I’m currently exploring **Frameworks, 3D Modelling, Java**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
